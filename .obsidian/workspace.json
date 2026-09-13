@@ -11,6 +11,16 @@
             "id": "a1b9e1fbf9258f82",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "c9045bbcf68af520",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "提示词.md",
@@ -21,7 +31,8 @@
               "title": "提示词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1b9e1fbf9258f82",
+  "active": "c9045bbcf68af520",
   "lastOpenFiles": [
+    "提示词.md",
     "测试/软件测试.md",
     "测试",
     "欢迎.md",
     "测试/移动自动化测试——Appium框架.md",
     "测试/性能测试 JMeter.md",
-    "提示词.md",
     "测试/Web自动化.md",
     "Python基础.md",
     "测试/Pytest测试框架.md",
