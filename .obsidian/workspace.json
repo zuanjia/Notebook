@@ -11,12 +11,14 @@
             "id": "c9045bbcf68af520",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片/提示词图片/提示词效果图.png"
+                "file": "提示词.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "提示词效果图"
+              "icon": "lucide-file",
+              "title": "提示词"
             }
           }
         ]
@@ -211,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecc1cdcd47f46807",
+  "active": "c9045bbcf68af520",
   "lastOpenFiles": [
+    "图片/提示词图片/提示词效果图.png",
     "提示词.md",
     "图片/提示词图片",
-    "图片/提示词图片/提示词效果图.png",
     "测试/软件测试.md",
     "测试",
     "欢迎.md",
