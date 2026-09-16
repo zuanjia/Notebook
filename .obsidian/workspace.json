@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "提示词.md",
+                "file": "运维/网络基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词"
+              "title": "网络基础"
             }
           }
         ]
@@ -221,8 +221,12 @@
   },
   "active": "c9045bbcf68af520",
   "lastOpenFiles": [
-    "obsidian的使用.md",
+    "运维/shell脚本.md",
+    "运维/网络基础.md",
+    "Python基础.md",
     "提示词.md",
+    "运维",
+    "obsidian的使用.md",
     "测试/性能测试 JMeter.md",
     "cocos笔记.md",
     "图片/360c0dc5029a201f7e6c4858ce793b9b.png",
@@ -241,7 +245,6 @@
     "欢迎.md",
     "测试/移动自动化测试——Appium框架.md",
     "测试/Web自动化.md",
-    "Python基础.md",
     "测试/Pytest测试框架.md",
     "测试/postman的使用.md",
     "Linux系统基础.md",
