@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: fufs4-vs4ul
+created: 2026-09-14T22:22:07+08:00
