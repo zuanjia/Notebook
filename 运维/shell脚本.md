@@ -1,3 +1,9 @@
+shell第一次执行需要权限
+```
+chmod +X 文件名称
+```
+## 注释
+在字符串前面加一个`#`表示注释
 ## 运算符
 lt(less than):小于
 le(less than or equal to): 小于等于
