@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/shell脚本.md",
+                "file": "运维/网络基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shell脚本"
+              "title": "网络基础"
             }
           }
         ]
@@ -203,9 +203,9 @@
   },
   "active": "c9045bbcf68af520",
   "lastOpenFiles": [
+    "运维/shell脚本.md",
     "Python基础.md",
     "运维/网络基础.md",
-    "运维/shell脚本.md",
     "提示词.md",
     "运维",
     "obsidian的使用.md",
