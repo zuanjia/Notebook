@@ -6,7 +6,6 @@
       {
         "id": "dd57bd38a4d31d3f",
         "type": "tabs",
-        "dimension": 75.43988269794721,
         "children": [
           {
             "id": "c9045bbcf68af520",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/网络基础.md",
+                "file": "运维/shell脚本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络基础"
-            }
-          }
-        ]
-      },
-      {
-        "id": "94c9b68caeb8ca7b",
-        "type": "tabs",
-        "dimension": 24.560117302052785,
-        "children": [
-          {
-            "id": "19d4db543c899287",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "shell脚本"
             }
           }
         ]
@@ -221,9 +203,9 @@
   },
   "active": "c9045bbcf68af520",
   "lastOpenFiles": [
-    "运维/shell脚本.md",
-    "运维/网络基础.md",
     "Python基础.md",
+    "运维/网络基础.md",
+    "运维/shell脚本.md",
     "提示词.md",
     "运维",
     "obsidian的使用.md",
