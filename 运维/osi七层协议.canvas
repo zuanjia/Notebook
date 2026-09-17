@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"cb0b06abe65ad4ed","type":"text","text":"<center>应用层</center>","x":-300,"y":-140,"width":140,"height":50},
+		{"id":"146ac85b9b5f9a85","type":"text","text":"<center>传输层</center>","x":-300,"y":-57,"width":140,"height":50},
+		{"id":"a504eca41adddbfa","type":"text","text":"<center>网络层","x":-300,"y":27,"width":140,"height":50},
+		{"id":"160af6cdbedf4a2d","type":"text","text":"<center>网络接口层","x":-300,"y":110,"width":140,"height":50},
+		{"id":"2ae665f70b777d74","type":"text","text":"<center>应用层","x":-80,"y":-140,"width":140,"height":50},
+		{"id":"871afd470363e304","type":"text","text":"<center>传输层","x":-80,"y":-57,"width":140,"height":50},
+		{"id":"d2f6006ba0d28b8f","type":"text","text":"<center>网路层","x":-80,"y":27,"width":140,"height":50},
+		{"id":"5eab612036ebd3c2","type":"text","text":"<center>数据链路层","x":-80,"y":110,"width":140,"height":50},
+		{"id":"05ab39851301bbb7","type":"text","text":"<center>物理层","x":-80,"y":193,"width":140,"height":50},
+		{"id":"ef361f397e72c88b","type":"text","text":"<center>应用层","x":140,"y":-265,"width":156,"height":50},
+		{"id":"bf6bdef6f450287a","type":"text","text":"<center>表示层","x":140,"y":-200,"width":156,"height":50},
+		{"id":"711cd7bbfc61b17e","type":"text","text":"<center>会话层","x":140,"y":-140,"width":156,"height":50},
+		{"id":"daf42ce904e84db2","type":"text","text":"<center>传输层","x":140,"y":-57,"width":156,"height":50},
+		{"id":"60f76fcb6efdd0e9","type":"text","text":"<center>网络层","x":140,"y":27,"width":156,"height":50},
+		{"id":"2c1b86f1a21c10b7","type":"text","text":"<center>数据链路层","x":140,"y":110,"width":156,"height":50},
+		{"id":"84433ad244846d2f","type":"text","text":"<center>物理层","x":140,"y":193,"width":156,"height":50}
+	],
+	"edges":[
+		{"id":"573441c198980508","fromNode":"cb0b06abe65ad4ed","fromSide":"right","toNode":"2ae665f70b777d74","toSide":"left"},
+		{"id":"907a80a11d30267e","fromNode":"146ac85b9b5f9a85","fromSide":"right","toNode":"871afd470363e304","toSide":"left"},
+		{"id":"a1688956140e3de0","fromNode":"a504eca41adddbfa","fromSide":"right","toNode":"d2f6006ba0d28b8f","toSide":"left"},
+		{"id":"a694dbedd1c7c0ab","fromNode":"160af6cdbedf4a2d","fromSide":"right","toNode":"5eab612036ebd3c2","toSide":"left"},
+		{"id":"00a48b2bc81889d2","fromNode":"160af6cdbedf4a2d","fromSide":"right","toNode":"05ab39851301bbb7","toSide":"left"},
+		{"id":"f31513579d9ce447","fromNode":"2ae665f70b777d74","fromSide":"right","toNode":"ef361f397e72c88b","toSide":"left"},
+		{"id":"9853e23ef1009160","fromNode":"2ae665f70b777d74","fromSide":"right","toNode":"bf6bdef6f450287a","toSide":"left"},
+		{"id":"c888dcae3c916b3e","fromNode":"2ae665f70b777d74","fromSide":"right","toNode":"711cd7bbfc61b17e","toSide":"left"},
+		{"id":"d1a1e6df28f0a8d6","fromNode":"871afd470363e304","fromSide":"right","toNode":"daf42ce904e84db2","toSide":"left"},
+		{"id":"8f727da784cde121","fromNode":"d2f6006ba0d28b8f","fromSide":"right","toNode":"60f76fcb6efdd0e9","toSide":"left"},
+		{"id":"38296a079f1c771c","fromNode":"5eab612036ebd3c2","fromSide":"right","toNode":"2c1b86f1a21c10b7","toSide":"left"},
+		{"id":"783bff8edecd69df","fromNode":"05ab39851301bbb7","fromSide":"right","toNode":"84433ad244846d2f","toSide":"left"}
+	]
+}
