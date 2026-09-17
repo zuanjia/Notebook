@@ -12,7 +12,13 @@ shell第一次执行需要权限
 chmod +X 文件名称 #使用脚本具有执行权限
 ./text.sh
 ```
-注意：一定要写成
+注意：一定要写成`./test.sh`,而不是`test.sh`运行其他二进制的程序也一样，直接写成test.sh，linux系统或去PATH里寻找又没叫test.sh的，而只有/bin,/sbin/usr/bin,/luser/sbin等在PATH里，你的当前目录通常不在PATH里，所以写成test.sh是会找不到命令的，要用`./test.sh`告诉系统，就在当前目录找
+
+## 变量
+```
+your_name:"xiaotao"
+```
+
 ## 注释
 在字符串前面加一个`#`表示注释
 ## 运算符
