@@ -42,14 +42,17 @@
             "id": "443a6d03ee94d722",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "运维/网络基础.md",
-                "mode": "source",
-                "source": false
+                "file": "运维/osi七层协议.canvas",
+                "viewState": {
+                  "x": -2,
+                  "y": -11,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "网络基础"
+              "icon": "lucide-layout-dashboard",
+              "title": "osi七层协议"
             }
           }
         ],
@@ -235,8 +238,8 @@
   },
   "active": "443a6d03ee94d722",
   "lastOpenFiles": [
-    "运维/osi七层协议.canvas",
     "运维/网络基础.md",
+    "运维/osi七层协议.canvas",
     "运维/shell脚本.md",
     "Python基础.md",
     "提示词.md",
