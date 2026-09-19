@@ -42,17 +42,14 @@
             "id": "443a6d03ee94d722",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "运维/osi七层协议.canvas",
-                "viewState": {
-                  "x": -2,
-                  "y": -11,
-                  "zoom": 0
-                }
+                "file": "运维/shell脚本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "osi七层协议"
+              "icon": "lucide-file",
+              "title": "shell脚本"
             }
           }
         ],
@@ -168,7 +165,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -196,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian的使用.md",
+                "file": "运维/shell脚本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,12 +213,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +234,10 @@
   },
   "active": "443a6d03ee94d722",
   "lastOpenFiles": [
-    "运维/网络基础.md",
-    "运维/osi七层协议.canvas",
+    "未命名.canvas",
     "运维/shell脚本.md",
+    "运维/osi七层协议.canvas",
+    "运维/网络基础.md",
     "Python基础.md",
     "提示词.md",
     "运维",
