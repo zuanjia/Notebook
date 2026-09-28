@@ -19,6 +19,7 @@
 官方文档：[生命周期回调 | Cocos Creator](https://docs.cocos.com/creator/3.8/manual/zh/scripting/life-cycle-callbacks.html#生命周期回调)
 
 # cocos的监听事件类型
+监听函数一般来说会写在加载函数
 
 ## 鼠标事件 
 
@@ -63,3 +64,9 @@
 input.on(监听类型，触发后执行的函数，this)
 
 ==监听开启和关闭要成对写上（防止内存泄漏）
+
+# 关键字
+### daltaTime 
+	就是每帧的时间
+### @property
+	可以使该变量在编辑器界面编辑
